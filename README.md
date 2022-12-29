@@ -51,6 +51,5 @@ Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages an
 ### 感谢
 Hostloc @feixiang和@乌拉擦 提供的思路和代码
 
-
-
+This project is tested with BrowserStack.
 
